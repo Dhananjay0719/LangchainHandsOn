@@ -1,0 +1,28 @@
+{
+  "name": "LangChain Project",
+  "description": "Learning text splitting for structured documents.",
+  "authors": [
+    {
+      "name": "Dhananjay",
+      "role": "Developer"
+    },
+    {
+      "name": "Alice",
+      "role": "Reviewer"
+    }
+  ],
+  "sections": {
+    "Introduction": "LangChain provides powerful tools for handling unstructured and semi-structured data.",
+    "Features": [
+      "Prompt Management",
+      "Document Loaders",
+      "Text Splitters",
+      "Memory"
+    ],
+    "Applications": {
+      "Chatbots": "Context-aware conversational agents.",
+      "RAG": "Retrieval Augmented Generation for domain-specific QA.",
+      "Automation": "Automating workflows with LLMs."
+    }
+  }
+}

@@ -1,0 +1,3 @@
+This is a dummy text file.
+It is created for testing LangChain document loaders.
+LangChain can load and process text, PDF, Word, and other file formats.
